@@ -2,7 +2,9 @@
 拦路小丑
 
 拦路小丑是一种人。我写了拦路小丑法，可惜里面有很多真实的人名，就不拿出来演示了。获得方法：在站长的同学微信群“全***望”索要，一年内即可得到。
-点击此处到达主页。点击此处到达当量社团专区。点击此处到达拦路小丑专区。https://github.com/dangliangdiguo/lanluxiaochou/blob/main/README.md
+点击此处到达主页。点击此处到达当量社团专区。https://github.com/dangliangdiguo/dangliangdiguo.github/blob/main/README.md
+
+点击此处到达拦路小丑专区。https://github.com/dangliangdiguo/lanluxiaochou/blob/main/README.md
 <script type="text/javascript" src="busuanzi.js"></script> <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"> </script> 
 总访问量：
  本站访客数人 
